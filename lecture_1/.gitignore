@@ -262,5 +262,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/python,pycharm,windows
+### My Virtual Environments ###
+venv_lecture1/
+# End of https://www.toptal.cgit om/developers/gitignore/api/python,pycharm,windows
