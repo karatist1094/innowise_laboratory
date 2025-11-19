@@ -23,6 +23,7 @@ current_age = 2025 - birth_year
 # Getting hobbies
 hobbies = []
 
+
 while True:
     hobby = input("Enter a favorite hobby or type 'stop' to finish: ")
     if hobby.lower() == "stop":
